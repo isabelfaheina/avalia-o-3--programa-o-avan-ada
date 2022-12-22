@@ -1,5 +1,5 @@
 #ifndef PUTSPHERE
-#define PUTSPHERE
+#define PUTSHPERE
 #include "Sculptor.h"
 #include "FiguraGeometrica.h"
 
